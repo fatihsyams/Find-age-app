@@ -5,7 +5,7 @@
 //  Created by Muhammad Basalamah on 03/10/18.
 //  Copyright © 2018 Mubs. All rights reserved.
 //
-
+// yang punya aplikasinnya fatih
 import UIKit
 
 class ViewController: UIViewController {
